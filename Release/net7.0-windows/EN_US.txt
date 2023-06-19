@@ -1,0 +1,46 @@
+Install Date: 
+Description:
+Download status: 
+Downloaded
+Pending download
+Install status:
+Installed
+Pending install
+Updating...
+Expand
+Collapse
+Checking...
+Downloading...
+Installing...
+Check for updates
+No updates
+Confirm update?
+Checking for available driver updates...
+All updates installed
+No available updates for your system
+MB free / 
+MB total
+GB VRAM; 
+HZ
+No displays conencted
+GB; Free size: 
+GB
+Device: 
+Manufacturer: 
+Driver version: 
+Driver:
+Operation status:
+Installation history:
+Devices and driver versions:
+Machine info:
+Running OS:
+Processor:
+RAM amount:
+GPU:
+System drives:
+Description and FAQ:
+App version:
+Author:
+Contact me:
+This app allows you to safely install and update the latest available drivers for your hardware. To start installing, simply press Scan for updates button to proceed.Please be aware that if you think that the program is stuck or does not respond, the drivers are still downloading/installing since this process is carried to the background and automatized. Please also be aware that this app installs only WHQL driver, that are widely tested and approved by Microsoft as ones that does not cause system instability. You can see all your install history and installed devices using the views above. Please do not hesitate to contact me if you have experiencing any errors with this software. DISCLAIMER: THIS SOFTWARE DISTRIBUTING AS-IS, AND THE AUTHOR DOES NOT RESPONSIBLE FOR ANY DAMAGE FOR YOUR HARDWARE CAUSED BY USING THIS SOFTWARE.
+Yurchuk Nazar
